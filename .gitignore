@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+
+# Ignore schools layer private data ('school_private')
+school_private/**
+
