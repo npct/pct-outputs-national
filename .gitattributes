@@ -1,3 +1,4 @@
 commute/** filter=lfs diff=lfs merge=lfs -text
 commute/msoa/** filter=lfs diff=lfs merge=lfs -text
 commute/lsoa/** filter=lfs diff=lfs merge=lfs -text
+school/** filter=lfs diff=lfs merge=lfs -text
